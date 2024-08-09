@@ -1,0 +1,3 @@
+ wget https://zenodo.org/records/13254978/files/LiCS.zip
+ unzip LiCS.zip
+ rm LiCS.zip
