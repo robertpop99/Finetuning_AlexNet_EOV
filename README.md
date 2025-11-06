@@ -1,7 +1,7 @@
 # Finetuning AlexNet EOV #
 
 To launch the notebook:
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robertpop99/Finetuning_AlexNet_EOV/blob/main/Finetuning_AlexNet_for_Volcanic_Deformation_Classification.ipynb) Recommended. After opening it, change the execution type to T4 GPU or any execution with GPU.
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robertpop99/Finetuning_AlexNet_EOV/blob/main/Finetuning_AlexNet_for_Volcanic_Deformation_Classification.ipynb) Recommended. After opening it, change the execution type to T4 GPU or any execution with a GPU.
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robertpop99/Finetuning_AlexNet_EOV/main?labpath=Finetuning_AlexNet_for_Volcanic_Deformation_Classification.ipynb) Not recommended. Due to memory constrains, you need to set the batch size to 2.
 
 
